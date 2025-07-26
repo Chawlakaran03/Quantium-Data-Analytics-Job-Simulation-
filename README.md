@@ -14,6 +14,7 @@ This project contains data exploration, customer analysis, and trial store evalu
 
 ## 📁 Files Included
 - `Task 1 code.pdf`, `Task 2 code.pdf`
+- `Task 3 - category review - chips.pdf`
   
 
 ## 📌 Tools Used
